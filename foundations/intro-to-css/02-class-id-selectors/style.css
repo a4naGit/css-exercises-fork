@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.oddNum {
+  background-color: lightpink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blueDiv {
+  color: blue;
+  font-size: 36px;
+}
+
+.num3 {
+  background-color: rgb(255, 104, 100);
+  font-size: 24px;
+}
+
+#evenNum {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
